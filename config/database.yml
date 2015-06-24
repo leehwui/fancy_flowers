@@ -52,3 +52,5 @@ production:
   database: fancy_flowers_production
   username: fancy_flowers
   password: <%= ENV['FANCY_FLOWERS_DATABASE_PASSWORD'] %>
+
+
